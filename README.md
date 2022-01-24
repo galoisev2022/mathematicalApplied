@@ -1,0 +1,2 @@
+# mathematicalApplied
+codes for modelisation
